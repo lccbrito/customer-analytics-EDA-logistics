@@ -1,4 +1,4 @@
-id,warehouse_block,mode_of_shipment,customer_care_calls,customer_rating,cost_of_the_product,prior_purchases,priority,gender,discount_offered,weight_in_gms,exceeded_deadline,faixa_peso,faixa_desconto
+id,warehouse_block,mode_of_shipment,customer_care_calls,customer_rating,cost_of_the_product,prior_purchases,priority,gender,discount_offered,weight_in_gms,exceeded_deadline,weight_bands,discount_tracks
 1,D,Flight,4,2,177.0,3,low,F,44.0,1233.0,True,1000-2000,41-50%
 2,F,Flight,4,5,216.0,2,low,M,59.0,3088.0,True,3001-4000,51-60%
 3,A,Flight,2,2,183.0,4,low,M,48.0,3374.0,True,3001-4000,41-50%
