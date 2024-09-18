@@ -57,7 +57,7 @@ O conjunto de dados foi retirado do Kaggle, disponível em [E-Commerce Shipping 
 
 - A taxa de produtos com atraso é elevada em todos os blocos, com variação entre 58% e 60%. Isso indica que a maioria dos produtos enfrentam atraso na entrega independentemente do bloco de armazém, o que sugere um problema na logística operacional. Pode ser uma combinação de fatores, como processos lentos, excesso de pedidos, ou até mesmo problemas no transporte.
 
-- O transporte marítimo (Ship) é responsável por ~68% dos envios, o que é significativamente maior que os outros modos (Flight e Road). A utilização predominante do transporte marítimo pode estar ligada a custos operacionais, visto que o envio por navio é geralmente mais barato para grandes volumes.Isso indica que a empresa pode estar priorizando a eficiência de custos em vez da velocidade de entrega. No entanto, caso os atrasos estejam prejudicando a satisfação do cliente, pode ser interessante reavaliar essa estratégia.
+- O transporte marítimo (Ship) é responsável por ~68% dos envios, o que é significativamente maior que os outros modos (Flight e Road). A utilização predominante do transporte marítimo pode estar ligada a custos operacionais, visto que o envio por navio é geralmente mais barato para grandes volumes. Isso indica que a empresa pode estar priorizando a eficiência de custos em vez da velocidade de entrega. No entanto, caso os atrasos estejam prejudicando a satisfação do cliente, pode ser interessante reavaliar essa estratégia.
 
 - As proporções de atraso são bastante semelhantes entre os diferentes modos de envio, com uma variação de aproximadamente 2%. A diferença não é significativa o suficiente para considerar que um modo de envio tem uma tendência maior de atrasos do que os outros.
 
